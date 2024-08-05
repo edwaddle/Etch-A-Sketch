@@ -28,4 +28,16 @@ body{
     border: solid black 1px;
     box-sizing: border-box;
     padding: 0;
+    margin:0;
+}
+
+ .box:hover{
+    background-color:grey;
+}
+
+.reset{
+    position: absolute;
+    right: 10vw;
+    top: 10vh;
+
 }
